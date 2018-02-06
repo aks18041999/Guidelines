@@ -26,5 +26,5 @@ After you fill out this form we will add you to our organization after reviewing
 ![confirm](https://cloud.githubusercontent.com/assets/10486343/22163648/a83d49b2-df79-11e6-94ed-b54be5fc6f88.png)
 
 Voila! You are done. The repository will be transferred to  our organization. The url of the repository changes in this process. It is better to update the remote urls in your local repository as well. See [Transferring a repository](https://help.github.com/articles/about-repository-transfers/) in Github Help.
->Note: Pull Requests and Issues get transferre. Clones, forks and remotes
+>Note: Pull Requests and Issues get transferred. Clones, forks and remotes
 get re-routed as well.
